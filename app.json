@@ -23,6 +23,12 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "88674851-5203-4129-83dd-43907784c4df"
+      }
+    },
+    "owner": "harshvardhan416"
   }
 }
